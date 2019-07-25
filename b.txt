@@ -1,0 +1,15 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 5CB0-AC80
+
+ Directory of D:\java
+
+25-Jul-19  07:36 PM    <DIR>          .
+25-Jul-19  07:36 PM    <DIR>          ..
+25-Jul-19  03:38 PM               477 a.html
+25-Jul-19  07:32 PM                 0 a.txt
+25-Jul-19  07:36 PM                 0 b.txt
+25-Jul-19  07:36 PM               893 hello.class
+25-Jul-19  03:05 PM               149 hello.java
+25-Jul-19  03:30 PM               431 readme.txt
+               6 File(s)          1,950 bytes
+               2 Dir(s)  261,176,029,184 bytes free
